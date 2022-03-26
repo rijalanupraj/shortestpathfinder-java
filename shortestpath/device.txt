@@ -1,0 +1,6 @@
+1~Point A~a~a
+2~Pont B~b~b
+3~Point C~c~c
+4~Point D~d~d
+5~Point E~e~e
+6~Point F~f~f
